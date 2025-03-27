@@ -1,2 +1,1 @@
-# PCB-DESIGN
-Repository of my PCB Projects
+PCB Project for my remote controller car with on board step-down converter for servos
