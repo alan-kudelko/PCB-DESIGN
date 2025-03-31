@@ -1,1 +1,1 @@
-PCB Project for my remote controller car with on board step-down converter for servos
+Receiver PCB board using 433MHz cheap RF modules I made back in 2021 for my RC controlled car. Board also consist of onboard voltage conveter utilizing XL4016 IC.
